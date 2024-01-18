@@ -20,3 +20,7 @@ Let us add `fmt` formatting library as an example:
 ```
 vcpkg add port fmt
 ```
+
+## Set up and build
+
+Follow instructions [here](https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-cmd).
